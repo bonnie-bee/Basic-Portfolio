@@ -75,11 +75,16 @@ a{
     border-bottom: medium solid #dddddd;
 }
 
-.prof1{
+#prof1{
+    background-image: url("../images/profPic.png");
     float: left;
-    width: 250px;
-    height: auto;
+    width: 300px;
+    height: 200px;
     margin: 20px;
+}
+
+#prof1:hover{
+    background-image: url('../images/lionPic.jpg');
 }
 
 p {
