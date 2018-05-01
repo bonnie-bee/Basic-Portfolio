@@ -85,7 +85,75 @@ p {
     margin: 20px;
 }
 
+/*~~~~~~~~~~~~~~~~~~~~ Portfolio ~~~~~~~~~~~~~~~~~~~~*/
 
+.portfolio{
+    position: relative;
+    width: 960px;
+    height: 800px;
+    background-color: #ffffff;
+    left: 18%;
+    top: 20px;
+}
+
+#h1port{
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, "Times New Roman", serif;
+    font-size: 25px;
+    padding: 20px;
+    border-bottom: medium solid #dddddd;
+}
+
+
+.middleEarth{
+    position: relative;
+    margin:40px 20px;
+}
+
+.fiveOClock{
+   position: relative;
+   margin: 40px 20px; 
+   left: 315px;
+   bottom: 335px;
+}
+
+.plant{
+    position: relative;
+    margin:40px 20px;
+    bottom: 450px;
+}
+
+.disposable{
+    position: relative;
+    margin:40px 20px;
+    left: 315px;
+    bottom: 785px;
+}
+
+.squirrel{
+    position: relative;
+    margin:40px 20px;
+    bottom: 900px;  
+}
+
+img{
+    width: 280px;
+    height: 187px;
+    overflow: hidden;
+}
+
+.title{
+    position: relative;
+    width: 280px;
+    height: 50px;
+    background-color: #4aaaa5;
+    color: #fff;
+    line-height: 45px;
+    font-family: 'Georgia', Times, "Times New Roman", serif;
+    bottom: 60px;
+    text-align: center;
+}
+ 
 /*~~~~~~~~~~~~~ Footer - Every Page ~~~~~~~~~~~~~~~~~*/
 
 .footer{
